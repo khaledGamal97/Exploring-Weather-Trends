@@ -1,7 +1,7 @@
 # Observations:
 - My city "Cairo" is hotter on average compared to the global average.
 
-<img src="https://github.com/khaledGamal97/Exploring-Weather-Trends/blob/main/2.Processing%20the%20data/Cairo%20temp%20Vs%20Global%20temp.png" width="500" height="500">
+<img src="https://github.com/khaledGamal97/Exploring-Weather-Trends/blob/main/2.Processing%20the%20data/Cairo%20temp%20Vs%20Global%20temp.png" width="900" height="500">
 
 - The global average temperature is in continous increasing.
 
